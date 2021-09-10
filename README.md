@@ -1,2 +1,2 @@
-# seasonality
-Quantifying seasonality changes in environmental epidemiology studies
+## seasonality
+**R** script files to uantifying seasonality changes in environmental epidemiology studies
