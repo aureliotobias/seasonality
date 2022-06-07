@@ -1,7 +1,7 @@
 ## Seasonality
 **R** script files to assess seasonality and the role of its potential drivers in environmental epidemiology studies.
 
-* **examples.R** reproduces the examples from the published manistucrip. 
+* **examples.R** reproduces the examples from the published manuscript. 
 * It is necessary to upload the following **ancillary functions**: 
     * **cyclic.R** - function to generate the clyclic spline (adapted from the R packge DLNM by <a href="https://pubmed.ncbi.nlm.nih.gov/22003319/" target="_blank">Gasparrini 2017</a>).  
     * **findmax.R** - function to estimate peak of seasonality (adapted from the R function to estimate the minimum the minimum mortality temperature by <a href="https://pubmed.ncbi.nlm.nih.gov/27748681/" target="_blank">Tobías et al. 2017</a>). 
