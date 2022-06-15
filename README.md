@@ -10,7 +10,7 @@ The **R script** files below reproducde step by step the analysis and the full r
 <br>
 * **main_analysis.R** reproduces the examples from the published manuscript. 
 
-* The following **ancillary functions** also need to be uploaded: 
+* and the following **ancillary functions** also need to be uploaded: 
 
     * **cyclic.R** - function to generate the clyclic spline to fit seasonality (adapted from the R packge DLNM by <a href="https://pubmed.ncbi.nlm.nih.gov/22003319/" target="_blank">Gasparrini 2017</a>).  
     * **findmax.R** - function to estimate the peak of seasonality (adapted from the R function to estimate the minimum the minimum mortality temperature by <a href="https://pubmed.ncbi.nlm.nih.gov/27748681/" target="_blank">Tobías et al. 2017</a>). 
